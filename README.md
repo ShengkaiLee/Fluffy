@@ -1,5 +1,5 @@
 # Fluffy
-
+A student based budgeting app
 ## Team
 
 *Columbia University in the City of New York <br>
