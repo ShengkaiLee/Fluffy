@@ -6,10 +6,10 @@
 Department of Computer Science <br>
 School of Engineering and Applied Science* <br>
 
-Shengkai Li (sl4685@columbia.edu)
-Mohith Manohar (slmm5874@columbia.edu)
-Yuanming Wang (yw3472@columbia.edu)
-Chenghan Wen (cw3330@columbia.edu)
+Shengkai Li (sl4685@columbia.edu) <br>
+Mohith Manohar (slmm5874@columbia.edu) <br>
+Yuanming Wang (yw3472@columbia.edu) <br>
+Chenghan Wen (cw3330@columbia.edu) <br>
 
 
 Project Fluffy - Spend leisurely, Stay fluffy!
@@ -60,3 +60,5 @@ which you can use as a starting point, in `features/_.feature`.
 Current output update: All scenarios are passing in cucumber and rspec tests.
 
 ## Preview of our homepage
+
+![Emma](https://github.com/ShengkaiLee/Fluffy/blob/main/example.png)
